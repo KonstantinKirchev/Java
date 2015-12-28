@@ -1,0 +1,5 @@
+Problem 1. Device File for SD Cards
+/dev/autofs
+
+Problem 2. Linux File Systems That Work With Memory
+ext2, ext3, ext4, xfs
